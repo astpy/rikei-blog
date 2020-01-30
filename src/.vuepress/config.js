@@ -2,7 +2,7 @@
 
 module.exports = {
   // Title of your website
-  title: 'My Blog',
+  title: 'Rikei Blog',
 
   // Description of your website
   description: 'This is my blog',
@@ -25,23 +25,23 @@ module.exports = {
     // Personal infomation (delete the fields if you don't have / don't want to display)
     personalInfo: {
       // Nickname
-      nickname: 'meteorlxy',
+      nickname: 'AstPy_ms',
 
       // Introduction of yourself (HTML supported)
-      description: 'Happy Coding<br/>Happy Life',
+      description: '寒い',
 
       // Email
-      email: 'meteor.lxy@foxmail.com',
+      email: 'sketdance551@gmail.com',
 
       // Your location
-      location: 'Xi\'an City, China',
+      location: 'Tokyo, Japan',
 
       // Your organization
-      organization: 'Xi\'an Jiao Tong University',
+      organization: 'ALONE',
 
       // Your avatar image
       // Set to external link
-      avatar: 'https://www.meteorlxy.cn/assets/img/avatar.jpg',
+      avatar: 'https://i.gyazo.com/8ccebf461a2695100bb0de3efb548019.jpg',
       // Or put into `.vuepress/public` directory. E.g. `.vuepress/public/img/avatar.jpg`
       // avatar: '/img/avatar.jpg',
 
@@ -49,92 +49,14 @@ module.exports = {
       sns: {
         // Github account and link
         github: {
-          account: 'meteorlxy',
-          link: 'https://github.com/meteorlxy',
-        },
-
-        // Facebook account and link
-        facebook: {
-          account: 'meteorlxy.cn',
-          link: 'https://www.facebook.com/meteorlxy.cn',
-        },
-
-        // LinkedIn account and link
-        linkedin: {
-          account: 'meteorlxy',
-          link: 'http://www.linkedin.com/in/meteorlxy',
+          account: 'AstPy-ms',
+          link: 'https://github.com/AstPy-ms',
         },
 
         // Twitter account and link
         twitter: {
-          account: 'meteorlxy_cn',
-          link: 'https://twitter.com/meteorlxy_cn',
-        },
-
-        // Sina Weibo account and link
-        weibo: {
-          account: '@焦炭君_Meteor',
-          link: 'https://weibo.com/u/2039655434',
-        },
-
-        // Zhihu account and link
-        zhihu: {
-          account: 'meteorlxy.cn',
-          link: 'https://www.zhihu.com/people/meteorlxy.cn',
-        },
-
-        // Douban account and link
-        douban: {
-          account: '159342708',
-          link: 'https://www.douban.com/people/159342708',
-        },
-
-        // Reddit account and link
-        reddit: {
-          account: 'meteorlxy',
-          link: 'https://www.reddit.com/user/meteorlxy',
-        },
-
-        // Medium account and link
-        medium: {
-          account: 'meteorlxy.cn',
-          link: 'https://medium.com/@meteorlxy.cn',
-        },
-
-        // Instagram account and link
-        instagram: {
-          account: 'meteorlxy.cn',
-          link: 'https://www.instagram.com/meteorlxy.cn',
-        },
-
-        // GitLab account and link
-        gitlab: {
-          account: 'meteorlxy',
-          link: 'https://gitlab.com/meteorlxy',
-        },
-
-        // Bitbucket account and link
-        bitbucket: {
-          account: 'meteorlxy',
-          link: 'https://bitbucket.org/meteorlxy',
-        },
-
-        // Docker Hub account and link
-        docker: {
-          account: 'meteorlxy',
-          link: 'https://hub.docker.com/u/meteorlxy',
-        },
-
-        // CSDN account and link
-        csdn: {
-          account: '',
-          link: 'https://www.csdn.net/',
-        },
-
-        // Juejin account and link
-        juejin: {
-          account: 'meteorlxy',
-          link: 'https://juejin.im/user/5c6fa9dde51d453fcb7baf09',
+          account: 'Masaki Kuge',
+          link: 'https://twitter.com/kuge_masa',
         },
       },
     },
