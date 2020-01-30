@@ -185,6 +185,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', exact: true },
       { text: 'Posts', link: '/posts/', exact: false },
+      { text: "About", link: "/about/"},
     ],
 
     // Comments config. See the [Posts Comments] section below.
