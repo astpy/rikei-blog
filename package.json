@@ -1,6 +1,10 @@
 {
     "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src --dest dist"
-  }
+        "dev": "vuepress dev src",
+        "build": "vuepress build src --dest dist"
+    },
+    "dependencies": {
+        "vuepress": "^1.3.0",
+        "vuepress-theme-meteorlxy": "^1.7.1"
+    }
 }
