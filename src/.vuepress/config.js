@@ -2,7 +2,7 @@
 
 module.exports = {
   // Title of your website
-  title: 'Rikei Blog',
+  title: 'Rikei Student Blog',
 
   // Description of your website
   description: 'This is my blog',
@@ -37,7 +37,7 @@ module.exports = {
       location: 'Tokyo, Japan',
 
       // Your organization
-      organization: 'ALONE',
+      // organization: 'ALONE',
 
       // Your avatar image
       // Set to external link
