@@ -19,6 +19,15 @@ vssue-title: 自由にコメントしてください。
 
 <br>
 iPhoneユーザーならMac、そうでない方で迷っているならWindowsがおすすめです。
+<br>
+<br>
+
+ちなみに私が使っているのは LG GRAM (Windows) です。
+<br>
+<br>
+
+興味がある方は[こちら](https://amzn.to/38XbFYf)
+
 
 # WindowsとMacを比較してみた
 
