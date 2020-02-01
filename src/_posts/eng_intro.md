@@ -6,6 +6,10 @@ date: 2020-02-01
 title: Self-intro about me.
 vssue-title: Hello, world.
 ---
+# About
+
+日本語版は[こちら](https://astpy.xyz/about/)
+
 
 ## About this blog
 
