@@ -1,6 +1,6 @@
 # About
 
-English introduction is [here](https://astpy.xyz/posts/eng_intro.html)
+English introduction is [here](https://astpy.xyz/posts/2020/02/01/eng-intro.html)
 
 ## このブログについて
 
