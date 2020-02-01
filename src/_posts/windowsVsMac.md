@@ -7,7 +7,7 @@ tags:
   - mac
   - linux
 date: 2020-02-01
-title: 【新大学生必見/2020年版】WindowsとMac、結局どっちがいいの？
+title: 【2020年最新版】WindowsとMac、結局どっちがいいの？【大学生必見】
 vssue-title: 自由にコメントしてください。
 ---
 
@@ -31,6 +31,8 @@ iPhoneユーザーならMac、そうでない方で迷っているならWindows�
 | ウイルスの数 | 多い | 少ない |
 | 無料アプリの数 | 非常に多い | 少ない |
 | 各種端子の数 | 機種依存 | 非常に少ない |
+| **Touch bar** | × | **○** |
+| **Air Drop** | × | **○** |
 
 
 ## ユーザ数
@@ -140,6 +142,20 @@ Windowsは様々なメーカーが製品を作っているため、**どんな�
 しかし、**これはWindowsPCすべてに言えることではありません。**  
 WindowsPCでも、USB-Cしかついていない製品もあります。
 
+
+## Touch bar & Air Drop
+
+**iPhoneユーザーにMacをおすすめする最大の理由です。**
+<br>
+<br>
+
+Macユーザーの友人が「これは本当に便利。神。」と言っていました。
+<br>
+<br>
+
+私はこの2つについてまだ詳しくないので、参考になる動画を添付しておきます。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v5YuVKUPRYk?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # まとめ
