@@ -5,7 +5,7 @@ module.exports = {
   title: 'Rikei Blog',
 
   // Description of your website
-  description: 'This is my blog',
+  description: '理系大学生が独自の観点から役立つ情報を共有するブログです。',
 
   // Language of your website
   locales: {
@@ -28,7 +28,7 @@ module.exports = {
       nickname: 'AstPy_ms',
 
       // Introduction of yourself (HTML supported)
-      description: '寒い',
+      description: 'Masaki KUGE',
 
       // Email
       email: 'sketdance551@gmail.com',
@@ -37,7 +37,7 @@ module.exports = {
       location: 'Tokyo, Japan',
 
       // Your organization
-      organization: 'ALONE',
+      organization: 'Tokyo Metropolitan University',
 
       // Your avatar image
       // Set to external link
@@ -47,6 +47,13 @@ module.exports = {
 
       // Accounts of SNS
       sns: {
+
+        // Facebook account and link
+        facebook: {
+          account: 'Masaki Kuge',
+          link: 'https://www.facebook.com/masaki.kuge.1',
+        },
+        
         // Github account and link
         github: {
           account: 'AstPy-ms',
@@ -57,7 +64,7 @@ module.exports = {
         twitter: {
           account: 'Masaki Kuge',
           link: 'https://twitter.com/kuge_masa',
-        },
+        },        
       },
     },
 
