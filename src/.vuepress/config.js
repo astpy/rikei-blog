@@ -1,6 +1,7 @@
 // .vuepress/config.js
 
 module.exports = {
+
   // Title of your website
   title: 'Rikei Student Blog',
 
