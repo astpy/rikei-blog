@@ -2,7 +2,7 @@
 
 module.exports = {
   // Title of your website
-  title: 'Rikei Blog',
+  title: 'Rikei Student Blog',
 
   // Description of your website
   description: '理系大学生が独自の観点から役立つ情報を共有するブログです。',
@@ -38,6 +38,7 @@ module.exports = {
 
       // Your organization
       organization: 'Tokyo Metropolitan University',
+      // organization: 'ALONE',
 
       // Your avatar image
       // Set to external link
