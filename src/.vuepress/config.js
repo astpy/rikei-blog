@@ -121,10 +121,10 @@ module.exports = {
 
     // Comments config. See the [Posts Comments] section below.
     comments: {
-      owner: 'meteorlxy',
-      repo: 'vuepress-theme-meteorlxy',
-      clientId: 'MY_CLIENT_ID',
-      clientSecret: 'MY_CLIENT_SECRET',
+      owner: 'AstPy-ms',
+      repo: 'rikei-blog',
+      clientId: 'dab1fd7b53f389f4a25b',
+      clientSecret: '0a731826fc14d265051cd91482c2720d03054825',
     },
 
     // Pagination config (Optional)
