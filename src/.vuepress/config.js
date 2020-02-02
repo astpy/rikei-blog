@@ -11,7 +11,7 @@ module.exports = {
   // Language of your website
   locales: {
     '/': {
-      lang: 'en-US',
+      lang: 'ja-JP',
     },
   },
 
@@ -21,7 +21,7 @@ module.exports = {
   // Theme config
   themeConfig: {
     // Language of this theme. See the [Theme Language] section below.
-    lang: 'en-US',
+    lang: 'ja-JP',
 
     // Personal infomation (delete the fields if you don't have / don't want to display)
     personalInfo: {
