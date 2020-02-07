@@ -71,7 +71,7 @@ vssue-id: 3
 <br>
 
 <img src="https://www.intel.co.jp/content/dam/products/hero/foreground/badge-9th-gen-core-i9-1x1.png.rendition.intel.web.128.128.png" width="120px">
-<img src="https://www.amd.com/system/files/styles/992px/private/2019-06/102426-zen-2-promo-1260x709.jpg?itok=zEhk-270" width="213px">
+<img src="https://upload.wikimedia.org/wikipedia/en/8/88/AMD_Zen_2_logo.png" width="130px">
 
 
 
