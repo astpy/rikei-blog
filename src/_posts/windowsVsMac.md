@@ -8,7 +8,7 @@ tags:
   - linux
 date: 2020-02-01
 title: 【2020年最新版】WindowsとMac、結局どっちがいいの？【大学生必見】
-vssue-title: 自由にコメントしてください。
+vssue-id: 2
 ---
 
 # TLDR
