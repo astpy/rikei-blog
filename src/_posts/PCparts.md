@@ -3,7 +3,7 @@ category: laptop
 tags:
   - PC
   - laptop
-date: 2020-02-01
+date: 2020-02-07
 title: 【2020年最新版】ノートパソコンで失敗しないために知識をつけよう【パソコンパーツ】
 vssue-id: 3
 ---
