@@ -22,7 +22,8 @@ vssue-id: 4
 <br>
 
 おすすめだけ見たい人は、**じゃあおすすめは何なのよ**まで飛ばしてください。
-
+<br>
+<br>
 
 # パソコンを選ぶときの選択肢
 
@@ -53,10 +54,11 @@ vssue-id: 4
 Windows? Mac?編は[こちら](https://astpy.xyz/posts/2020/02/01/windowsvsmac.html)
 
 パソコンの性能編は[こちら](https://astpy.xyz/posts/2020/02/07/pcparts.html)
-
+<br>
+<br>
 
 # 選択肢に関する解答
-
+<br>
 
 ## ディスプレイの性能は？
 
@@ -65,7 +67,8 @@ Windows? Mac?編は[こちら](https://astpy.xyz/posts/2020/02/01/windowsvsmac.h
 <br>
 
 ディスプレイの性能は、**解像度と大きさ**で決まります。
-
+<br>
+<br>
 
 ### 解像度
 <br>
@@ -78,7 +81,8 @@ Windows? Mac?編は[こちら](https://astpy.xyz/posts/2020/02/01/windowsvsmac.h
 <br>
 
 ここでは詳しく説明しませんが、Full HD以上でないと**めちゃくちゃ使いづらいです。**
-
+<br>
+<br>
 
 ### 大きさ
 <br>
@@ -107,7 +111,8 @@ Windows? Mac?編は[こちら](https://astpy.xyz/posts/2020/02/01/windowsvsmac.h
 <br>
 
 13~14インチがちょうどよい大きさだと私は感じていますし、大学の推奨PCも13インチの場合が多いようなので、13~14インチを選べば間違いありません。
-
+<br>
+<br>
 
 ## 軽いほうが良いよね？
 
@@ -130,7 +135,8 @@ Windows? Mac?編は[こちら](https://astpy.xyz/posts/2020/02/01/windowsvsmac.h
 <br>
 
 ただ、**軽くても性能を妥協してはいけませんよ。**
-
+<br>
+<br>
 
 ## Microsoft Officeはいる？
 
@@ -167,7 +173,8 @@ Windows? Mac?編は[こちら](https://astpy.xyz/posts/2020/02/01/windowsvsmac.h
 <br>
 
 もし配布をしていないのであれば、**Office付属のラップトップを購入するか、別でOfficeだけ買いましょう。**
-
+<br>
+<br>
 
 ## 大学推奨のPCを買う？
 
@@ -187,7 +194,8 @@ Windows? Mac?編は[こちら](https://astpy.xyz/posts/2020/02/01/windowsvsmac.h
 <br>
 
 同じパソコンを長く使うことも大切ですが、**その時の自分に合わせて買い直すことも大切です。**
-
+<br>
+<br>
 
 ## じゃあおすすめは何なのよ
 
@@ -208,7 +216,8 @@ LGが展開するモバイルノートPCです。私はこれのi5モデルを�
 <br>
 <br>
 公式サイトは[こちら](https://www.lg.com/jp/pc/lg-14Z90N-VR52J)
-
+<br>
+<br>
 
 ### Lenovo IdeaPad S540
 
@@ -229,7 +238,8 @@ Lenovoが展開するモバイルノートPCです。直販サイトなら性能
 <br>
 
 直販サイトは[こちら](https://www.lenovo.com/jp/ja/notebooks/ideapad/s500-series/Lenovo-IdeaPad-S540-14IWL/p/88IPS501190)
-
+<br>
+<br>
 
 ### HP Pavilion
 
@@ -250,7 +260,8 @@ Hewlett-Packard(HP, ヒューレット・パッカード)が展開するモバ�
 <br>
 
 公式サイトは[こちら](https://jp.ext.hp.com/notebooks/personal/pavilion_13_an1000/)
-
+<br>
+<br>
 
 # まとめ
 <br>
@@ -271,3 +282,5 @@ Hewlett-Packard(HP, ヒューレット・パッカード)が展開するモバ�
 <br>
 
 ここまでお疲れ様でした。
+<br>
+<br>
