@@ -1,13 +1,13 @@
 ---
 title: bashのコマンドを紹介
-description: 普段使うシェルスクリプトを紹介します。
 date: 2020-7-10
 category: programming
 author: Astpy_ms
-tag:
+tags:
   - windows
   - bash
   - powershell
+vssue-id: 6
 ---
 
 ## はじめに
@@ -53,7 +53,7 @@ user@user:~$
 
 # こんなこともできる
 # いろいろやってるけど結局Downloadsに移動してるだけ
-user@user:~$ ./cloned/linux-blog/../../cloned/../Downloads
+user@user:~$ cd ./cloned/linux-blog/../../cloned/../Downloads
 ```
 
 
@@ -116,7 +116,7 @@ user@user:~$ cat test.txt | ./a.out > answer.txt
 user@user:~$ cat ./test_case.in | ./a.out > answer.out
 
 # diffコマンドで一致してるか確認
-diff ./answer.ans ./answer.out
+user@user:~$ diff ./answer.ans ./answer.out
 ```
 
 ## まとめ
